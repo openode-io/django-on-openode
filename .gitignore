@@ -1,0 +1,3 @@
+.openode
+db.sqlite3
+**/*.pyc
